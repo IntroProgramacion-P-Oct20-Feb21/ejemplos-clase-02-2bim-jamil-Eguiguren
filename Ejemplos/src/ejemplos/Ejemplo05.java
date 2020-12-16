@@ -20,9 +20,9 @@ public class Ejemplo05 {
         // arreglo de tipo entero
         int[] arreglo1 = new int[5];
         // Se asigna valores al arreglo
-        arreglo1[0] = 10;
-        arreglo1[1] = 30;
-        arreglo1[2] = 50;
+        arreglo1[0] = 5;
+        arreglo1[1] = 12;
+        arreglo1[2] = 6;
         arreglo1[3] = 70;
         arreglo1[4] = 90;
         // Se hace uso del ciclo repetitivo for para recorrer el arreglo
